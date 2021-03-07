@@ -1,0 +1,40 @@
+body{
+    background: rgb(212, 212, 212);
+    margin: 0%;
+}
+
+.main-title{
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 1px;
+}
+
+.container{
+    width: 50%;
+    margin: 0 auto;
+    display: flow-root;
+}
+
+.title-header{
+    float: left;
+    width: 600px;
+    padding: 10px;
+}
+
+.date{
+    text-align: right;
+
+}
+
+div.post{
+    width: 700px;
+    margin: auto;
+    background-color: white;
+}
+
+div.picture{
+    width: 100%;
+}
+
+
